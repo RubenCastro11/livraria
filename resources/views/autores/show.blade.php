@@ -1,6 +1,7 @@
 <ul>
-Ida:{{$autores->ida}}<br>
+Id_autor:{{$autores->ida}}<br>
 Nome:{{$autores->nome}}<br>
 Nacionalidade:{{$autores->nacionalidade}}<br>
-Data:{{$autores->data}}
+Data de Nascimento:{{$autores->data_nascimento}}<br>
+Fotografia:{{$autores->fotografia}}
 </ul>
